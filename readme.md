@@ -1,7 +1,10 @@
 #Danilo Müller Trevelin
 >Desenvolvedor Front-end
+
 >Guarulhos - SP
+
 >(11) 9 7372 4218
+
 >danilo.muller.trevelin@gmail.com
 
 ##Resumo

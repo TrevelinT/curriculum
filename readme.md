@@ -14,7 +14,9 @@ Desenvolvedor Front-end, desenhista, amante de tecnologia e de jogos. Estou semp
 
 ##Formação
 Comunicação Social com habilitação em Publicidade e Propaganda
+
 Escola de Comunicações e Artes da Universidade de São Paulo - [ECA-USP](http://www3.eca.usp.br/)
+
 Janeiro de 2006 à Junho de 2010
 
 ##Experiências profissionais

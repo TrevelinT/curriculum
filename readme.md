@@ -1,6 +1,8 @@
 #Danilo Müller Trevelin
 >Desenvolvedor Front-end
 
+>25
+
 >Guarulhos - SP
 
 >(11) 9 7372 4218
@@ -9,6 +11,13 @@
 
 ##Resumo
 Desenvolvedor Front-end, desenhista, amante de tecnologia e de jogos. Estou sempre procurando conhecimento nas minhas áreas de interesse. Gosto de aprender e sempre estou seguindo blogs de pessoas influentes no meio para me atualizar nas tecnologias front-end. Busco criar um código organizado, semântico e de fácil entendimento.
+
+##Formação
+Comunicação Social com habilitação em Publicidade e Propaganda
+
+Escola de Comunicações e Artes da Universidade de São Paulo - [ECA-USP](http://www3.eca.usp.br/)
+
+Janeiro de 2006 à Junho de 2010
 
 ##Experiências profissionais
 

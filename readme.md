@@ -1,7 +1,7 @@
 #Danilo Müller Trevelin
 >Desenvolvedor Front-end
 
->25 anos
+>26 anos
 
 >Guarulhos - SP
 
@@ -21,9 +21,9 @@ Janeiro de 2006 à Junho de 2010
 
 ##Experiências profissionais
 
-###[Usina da Criação](http://www.usinadacriacao.com.br) - 2012 até o presente.
+###[Usina da Criação](http://www.usinadacriacao.com.br) - Setembro de 2012 até o presente.
 Desenvolvimento de layout de sites. (Photoshop e/ou Fireworks)
-Desenvolvimento do front-end dos sites (HTML5, CSS3 e Javascript e jQuery)
+Desenvolvimento do front-end dos sites (HTML5, CSS3 e Javascript e jQuery) para implementação na ferramenta de CMS da agência
 Implementação do Sass no front-end da agência.
 
 ###[Holonpsi](http://www.holonpsi.com.br) – Freelancer – 2011
@@ -40,6 +40,7 @@ Criação de logotipo e Website – www.holonpsi.com.br
 
 ###Ferramentas
 * Sublime Text
+* Webstorm
 * Adobe Creative Suite
 
 ##Linguas
@@ -49,6 +50,7 @@ Criação de logotipo e Website – www.holonpsi.com.br
 ##Portfolio
 
 * [Github](https://github.com/TrevelinT/plugins) - Exemplos de código feitos por mim
+* [ABMN](http://www.abmn.com.br) - Front-end
 * [Hospital Renascentista](http://www.hospitalrenascentista.com.br) - Front-end
 * [Villa 459](http://www.villa459.com.br) - Front-end e layout
 * [BSBCOR Seguros](http://www.bsbcorseguros.com.br) - Front-end

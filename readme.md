@@ -1,7 +1,7 @@
 #Danilo Müller Trevelin
 >Desenvolvedor Front-end
 
->26 anos
+>28 anos
 
 >Guarulhos - SP
 
@@ -21,10 +21,19 @@ Janeiro de 2006 à Junho de 2010
 
 ##Experiências profissionais
 
-###[Usina da Criação](http://www.usinadacriacao.com.br) - Setembro de 2012 até o presente.
-Desenvolvimento de layout de sites. (Photoshop e/ou Fireworks)
-Desenvolvimento do front-end dos sites (HTML5, CSS3 e Javascript e jQuery) para implementação na ferramenta de CMS da agência
-Implementação do Sass no front-end da agência.
+###[B2W Digital](https://www.b2wdigital.com/) - Novembro de 2014 até o presente.
+Faço parte do time de desenvolvimento front-end de Testes A/B e exerço as seguintes funções para os 4 sites da empresa:
+* Criação da concepção do Teste A/B junto com a equipe de Testes A/B
+* Desenvolvimento do Teste A/B utilizando HTML, CSS e JS
+* Implementação da versão vencedora no site
+* Manutenção de aplicações em React e Angular
+* Desenvolvimento de features novas nas aplicações em React e Angular
+
+###[Usina da Criação](http://www.usinadacriacao.com.br) - Setembro de 2012 - Outubro de 2014.
+Lider do time de Web design exercendo as seguintes funções:
+* Desenvolvimento de layout de sites. (Photoshop e/ou Fireworks)
+* Desenvolvimento do front-end dos sites (HTML5, CSS3 e Javascript e jQuery) para implementação na ferramenta de CMS da agência
+* Implementação do Sass no front-end da agência.
 
 ###[Holonpsi](http://www.holonpsi.com.br) – Freelancer – 2011
 Criação de logotipo e Website – www.holonpsi.com.br
@@ -33,14 +42,23 @@ Criação de logotipo e Website – www.holonpsi.com.br
 
 ###Habilidades
 * HTML5
-* CSS com conhecimento básico em CSS3
-* Javascript
+* CSS3
+* Vanilla Javascript
+* Object Oriented Programming
+* Functional Programming
+* Design Patterns
+* React/Redux
+* Vue.js 2.x
+* Gulp
+* Webpack (1.x e 2.x)
 * jQuery
 * Preprocessador Sass
 
 ###Ferramentas
-* Sublime Text
-* Webstorm
+* Atom (Vue)
+* VS Code (React)
+* Cmder (Windows)
+* Guake (Ubuntu)
 * Adobe Creative Suite
 
 ##Linguas
@@ -49,12 +67,5 @@ Criação de logotipo e Website – www.holonpsi.com.br
 
 ##Portfolio
 
-* [Github](https://github.com/TrevelinT/plugins) - Exemplos de código feitos por mim
-* [Portfólio](http://trevelint.github.io/) - Github page com um quiz dinâmico em JS desenvolvido por mim
-* [ABMN](http://www.abmn.com.br) - Front-end
-* [Hospital Renascentista](http://www.hospitalrenascentista.com.br) - Front-end
-* [Villa 459](http://www.villa459.com.br) - Front-end e layout
-* [BSBCOR Seguros](http://www.bsbcorseguros.com.br) - Front-end
-* [Rádio Maternidade](http://www.radiomaternidade.com) - Front-end
-* [Tempo Afinidades](http://www.tempoafinidades.com.br) - Front-end
-* [Admix](http://www.admix.com.br) - Front-end
+* [Github](https://github.com/TrevelinT/) - Meu respositório de códigos
+* [Calculator](https://trevelint.github.io/calculator) - Projeto de Calculadora desenvolvido usando Vue.js
